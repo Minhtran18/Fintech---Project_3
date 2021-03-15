@@ -2,8 +2,6 @@
 
 ## Using blockchain technology to issue company Fungible Token
 
----
-
 ### Team Members: Syed Naqvi, Minh Tran, Rodrigo Guazzelli, Hsuan Liu, Abdullah Mamun
 
 ---
@@ -34,16 +32,16 @@
 
 1. Overview
 
-It is hard to raise funds for private companies in the primary market. We are going to tokenize the enterprise value/ asset value using the proper ERC 20 standard to sell the FT.
+	It is hard to raise funds for private companies in the primary market. We are going to tokenize the enterprise value/ asset value using the proper ERC 20 standard to sell the FT.
 
-Any company can issue the token to raise funds on our platform. We are not assessing the company but selling the route people can raise fund.
+	Any company can issue the token to raise funds on our platform. We are not assessing the company but selling the route people can raise fund.
 
-Target: institutional angel investors and aggressive retail investors who are interested in this fund-raising process
+	Target: institutional angel investors and aggressive retail investors who are interested in this fund-raising process
 
 
 2. Sources
 
-[OpenZeppelin](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale)
+	[OpenZeppelin](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale)
 
 3. Blockchain technology
     
