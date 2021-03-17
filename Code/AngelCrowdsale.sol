@@ -56,7 +56,7 @@ contract AngelTokenSaleDeployer {
         AngelTokenSale coin_sale = new AngelTokenSale(1, wallet, coin, goal, now, now + 12 weeks);
         coin_sale_address = address(coin_sale);
         
-        // make the AngelTokenCoinSale contract a minter, then have the PupperCoinSaleDeployer renounce its minter role
+        // make the AngelTokenCoinSale contract a minter, then have the AngelCoinSaleDeployer renounce its minter role
         
         coin.addMinter(coin_sale_address);
         coin.renounceMinter();
