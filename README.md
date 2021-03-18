@@ -110,6 +110,7 @@
 
     But you have a long way to go, remember that it always risk dealing with investment.
 
+![Buy](Images/Angel_buy.png)
 
 7. Room for Improvement
 
