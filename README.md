@@ -39,9 +39,9 @@
 
 2. Sources
 
-	[OpenZeppelin](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale)
-	[Ethereum.org](https://ethereum.org/en/learn/)
-	[Fungibility](https://www.investopedia.com/terms/f/fungibility.asp)
+	[OpenZeppelin](https://docs.openzeppelin.com/contracts/2.x/api/crowdsale) n/
+	[Ethereum.org](https://ethereum.org/en/learn/)n/
+	[Fungibility](https://www.investopedia.com/terms/f/fungibility.asp)n/
 
 3. Blockchain technology
     
