@@ -54,7 +54,9 @@
     * Customize Crowdsale rate
 
     * Time: selling period
- 
+
+![Token](Images/Angel_4.png)
+
 5. Technical Standards Protocols
 
     5.1. ERC-20 
